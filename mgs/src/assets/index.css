@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+  url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTea9dpSkbrBCEVbQTE_MnU2ENecSTCVeakuw&usqp=CAU");
+  background-position: center;
+  background-color: rgba(12, 5, 5, 0.514);
+  margin:0;
+}
+
+.customtext {
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  color: #c2c2ca;
+  }
